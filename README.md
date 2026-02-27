@@ -1,7 +1,7 @@
 # OptLang
 A stack based language all about learning code generation and optimization to me.
 
-Name by [@slmnkara](github.com/slmnkara)
+Name by [@slmnkara](https://github.com/slmnkara)
 
 ### Goals for this project
 
