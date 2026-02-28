@@ -9,5 +9,6 @@ Name by [@slmnkara](https://github.com/slmnkara)
 - [ ] Turing Complete
 - [ ] Static typing
 - [ ] Self hosted
-- [ ] Optimized to the limit of my abilities
+- [ ] Optimized to a convenient degree for the developer
+- [ ] Has inline assembly features akin to FreePascal
 - [ ] All of the above with no added dependencies. Or in my case "Cargo"s.
