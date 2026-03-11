@@ -5,7 +5,7 @@ Name by [@slmnkara](https://github.com/slmnkara)
 
 ### Goals for this project
 
-- [ ] Compiled to target triple of my machine (arm64-apple-darwin)
+- [ ] Compiled to target triple of my machine (gas-aarch64-macos)
 - [ ] Turing Complete
 - [ ] Static typing
 - [ ] Self hosted
